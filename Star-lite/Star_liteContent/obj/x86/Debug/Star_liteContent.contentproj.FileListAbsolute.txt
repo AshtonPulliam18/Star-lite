@@ -1,0 +1,4 @@
+C:\Videogame Programming\Star-lite\Star-lite\Star-lite\Star-lite\Star-lite\Star_liteContent\obj\x86\Debug\Star_liteContent.contentproj.AssemblyReference.cache
+C:\Videogame Programming\Star-lite\Star-lite\Star-lite\Star-lite\Star-lite\Star_liteContent\obj\x86\Debug\Star_liteContent.contentproj.CoreCompileInputs.cache
+C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_liteContent\obj\x86\Debug\Star_liteContent.contentproj.AssemblyReference.cache
+C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_liteContent\obj\x86\Debug\Star_liteContent.contentproj.CoreCompileInputs.cache

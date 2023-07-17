@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Assets\MapTiles\WhiteTile.png</Source>
+      <Name>Assets\MapTiles\WhiteTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\MapTiles\WhiteTile.xnb</Output>
+      <Time>2023-05-01T23:57:49.2952936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\MapTiles\Door.png</Source>
+      <Name>Assets\MapTiles\Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\MapTiles\Door.xnb</Output>
+      <Time>2023-05-01T23:57:48.6929719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\MapTiles\TileSet1.png</Source>
+      <Name>Assets\MapTiles\TileSet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\MapTiles\TileSet1.xnb</Output>
+      <Time>2023-05-01T23:57:49.2942915-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Player\Astronaut.png</Source>
+      <Name>Assets\Player\Astronaut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Player\Astronaut.xnb</Output>
+      <Time>2023-05-02T10:50:46.062697-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\BG\3.png</Source>
+      <Name>Assets\BG\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\BG\3.xnb</Output>
+      <Time>2023-05-01T23:57:48.6929719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\BG\1.png</Source>
+      <Name>Assets\BG\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\BG\1.xnb</Output>
+      <Time>2023-05-01T23:57:48.6919724-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\BG\2.png</Source>
+      <Name>Assets\BG\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\BG\2.xnb</Output>
+      <Time>2023-05-01T23:57:48.6919724-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\BG\0.png</Source>
+      <Name>Assets\BG\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\BG\0.xnb</Output>
+      <Time>2023-05-01T23:57:48.6919724-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Menu\StartGame.png</Source>
+      <Name>Assets\Menu\StartGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Menu\StartGame.xnb</Output>
+      <Time>2023-05-01T23:57:48.6949686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Menu\STARLITE.png</Source>
+      <Name>Assets\Menu\STARLITE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Menu\STARLITE.xnb</Output>
+      <Time>2023-05-01T23:57:48.6949686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Enemies\Alien1.png</Source>
+      <Name>Assets\Enemies\Alien1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Enemies\Alien1.xnb</Output>
+      <Time>2023-05-01T23:57:48.6939719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Misc\Cursor.png</Source>
+      <Name>Assets\Misc\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Misc\Cursor.xnb</Output>
+      <Time>2023-05-01T23:57:48.6949686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\MapTiles\SideDoor.png</Source>
+      <Name>Assets\MapTiles\SideDoor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\MapTiles\SideDoor.xnb</Output>
+      <Time>2023-05-01T23:57:48.695969-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Misc\FloatingMan.png</Source>
+      <Name>Assets\Misc\FloatingMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Misc\FloatingMan.xnb</Output>
+      <Time>2023-05-01T23:57:48.695969-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Projectiles\CannonBullet.png</Source>
+      <Name>Assets\Projectiles\CannonBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Projectiles\CannonBullet.xnb</Output>
+      <Time>2023-05-01T23:57:48.6929719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Weapons\Cannon.png</Source>
+      <Name>Assets\Weapons\Cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Weapons\Cannon.xnb</Output>
+      <Time>2023-05-01T23:57:48.6929719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Songs\2.wav</Source>
+      <Name>Assets\Songs\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Songs\2.xnb</Output>
+      <Time>2023-05-01T23:57:49.1372838-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Songs\3.wav</Source>
+      <Name>Assets\Songs\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Songs\3.xnb</Output>
+      <Time>2023-05-01T23:57:49.2872926-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Songs\1.wav</Source>
+      <Name>Assets\Songs\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Songs\1.xnb</Output>
+      <Time>2023-05-01T23:57:49.0228623-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Songs\0.wav</Source>
+      <Name>Assets\Songs\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Songs\0.xnb</Output>
+      <Time>2023-05-01T23:57:48.8865692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Sounds\PlayerWalking.wav</Source>
+      <Name>Assets\Sounds\PlayerWalking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Sounds\PlayerWalking.xnb</Output>
+      <Time>2023-05-01T23:57:49.2922917-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\FullscreenEffect.fx</Source>
+      <Name>Assets\FullscreenEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\FullscreenEffect.xnb</Output>
+      <Time>2023-05-08T19:20:31.5891688-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Enemies\AlienBoss.png</Source>
+      <Name>Assets\Enemies\AlienBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Enemies\AlienBoss.xnb</Output>
+      <Time>2023-05-08T19:25:46.2434299-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Weapons\Cannon3X.png</Source>
+      <Name>Assets\Weapons\Cannon3X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Weapons\Cannon3X.xnb</Output>
+      <Time>2023-05-08T19:25:46.2519411-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Sounds\DoorOpenSound.wav</Source>
+      <Name>Assets\Sounds\DoorOpenSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Sounds\DoorOpenSound.xnb</Output>
+      <Time>2023-05-08T19:25:46.2519411-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Sounds\CannonSound.wav</Source>
+      <Name>Assets\Sounds\CannonSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Sounds\CannonSound.xnb</Output>
+      <Time>2023-05-08T19:25:46.2494325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Sounds\BossScreech.wav</Source>
+      <Name>Assets\Sounds\BossScreech</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Sounds\BossScreech.xnb</Output>
+      <Time>2023-05-08T19:25:46.2484254-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Sounds\DoorCloseSound.wav</Source>
+      <Name>Assets\Sounds\DoorCloseSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Sounds\DoorCloseSound.xnb</Output>
+      <Time>2023-05-08T19:25:46.2504313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Enemies\AlienBossAttack.png</Source>
+      <Name>Assets\Enemies\AlienBossAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Enemies\AlienBossAttack.xnb</Output>
+      <Time>2023-05-10T23:48:35.3131964-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Enemies\BossHead.png</Source>
+      <Name>Assets\Enemies\BossHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Enemies\BossHead.xnb</Output>
+      <Time>2023-05-10T23:51:53.3242945-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Enemies\Alien1Attack.png</Source>
+      <Name>Assets\Enemies\Alien1Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Enemies\Alien1Attack.xnb</Output>
+      <Time>2023-05-10T23:48:35.3131964-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\HeaderFont.spritefont</Source>
+      <Name>Assets\Fonts\HeaderFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Fonts\HeaderFont.xnb</Output>
+      <Time>2023-05-10T23:48:22.9618278-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\SubheaderFont.spritefont</Source>
+      <Name>Assets\Fonts\SubheaderFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\Assets\Fonts\SubheaderFont.xnb</Output>
+      <Time>2023-05-10T23:48:22.9657748-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{42BCF9E2-29C0-4C6F-A387-B59EFF63CACD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_liteContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Videogame Programming\Star-Lite1\Star-lite\Star-lite\Star-lite\Star_lite\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2023-05-03T01:23:38.6657725-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
